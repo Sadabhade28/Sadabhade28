@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Sandeep
+
+                        Data Analyst
+
+🌱 I’m currently learning advanced data analysis techniques and enhancing my skills in Power BI, SQL, and Excel.
+
+📫 How to reach me: sadabhade28@gmail.com
+
+⚡ Fun fact: A Mechanical Engineer Turned Data Enthusiast
 
 <!--
 **Sadabhade28/Sadabhade28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
