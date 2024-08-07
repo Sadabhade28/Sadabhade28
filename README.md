@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sandeep
 
-                        Data Analyst
+                        ### Data Analyst
 
 🌱 I’m currently learning advanced data analysis techniques and enhancing my skills in Power BI, SQL, and Excel.
 
