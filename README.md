@@ -8,6 +8,9 @@
 
 ⚡ Fun fact: A Mechanical Engineer Turned Data Enthusiast
 
+Languages and Tools:
+PowerBi Excel mysql python pandas git
+
 <!--
 **Sadabhade28/Sadabhade28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
